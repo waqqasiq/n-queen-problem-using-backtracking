@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 29 14:36:49 2018
-
-@author: Waqqas
-"""
-
 import copy
 import random
 
